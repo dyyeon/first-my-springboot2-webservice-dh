@@ -1,3 +1,5 @@
+# 버전 관리는 개인적으로
 .gradle
 .idea
+# 인증 정보 보안
 application-oauth.properties
